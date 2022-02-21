@@ -1,9 +1,7 @@
-node_modules
 # Ignore artifacts:
+node_modules
 build
 coverage
-/src/App.tsx
-/src/index.tsx
-/src/AppRoutes.tsx
-/src/App.test.tsx
-/src/interfaces
+package.json
+public/index.html
+src/css/
